@@ -1,0 +1,7 @@
+{
+  "name": "B.K Chemical Service & Waterproofing",
+  "description": "A professional service website for B.K Chemical Service specializing in waterproofing, civil works, pest control, and renovation services in Karachi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
